@@ -3,7 +3,7 @@ import timezone from 'dayjs/plugin/timezone'
 import { GraphQLClient } from 'graphql-request'
 import { DateTime, getSdk } from 'src/gql-operations'
 
-export const API_URL = 'https://api.glubhub.org/'
+export const API_URL = 'https://grease.fly.dev/'
 export const EST_TIMEZONE = 'America/New_York'
 
 dayjs.extend(timezone)
