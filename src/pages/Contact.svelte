@@ -30,7 +30,7 @@
 
 <section class="section">
   <div class="container">
-    <h1 class="title">Fight Us 1v1 IRL</h1>
-    <p>Rehearsals are in West Village 175 on Mondays from 6 to 8pm.</p>
+    <h1 class="title">How to Join</h1>
+    <p>Rehearsals are in West Village 175 on Mondays from 6 to 8pm. You can just show up to rehearsal to see how you like it.</p>
   </div>
 </section>
