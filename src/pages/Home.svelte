@@ -29,6 +29,6 @@
 </section>
 
 <UpcomingEvents />
-<BeAGroupie />
+<!-- <BeAGroupie /> -->
 <Merch />
 <Socials />
